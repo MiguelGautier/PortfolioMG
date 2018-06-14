@@ -1,4 +1,4 @@
-Following variables have to be specified in the Console before sourcing the R file
+Following variables must to be specified in the Console before sourcing the R file
 	- radius (max 50000 meters, default is set to 50000)
 	
 	- location (default is set to 12 pairs of latitudes and longitudes that can be used to search within the Domimican Republic territory 
@@ -6,7 +6,7 @@ Following variables have to be specified in the Console before sourcing the R fi
 	
 	- key (your Google Places API key) (No, I am not letting you use mine)
 
-Only one of this two variables is requiered to be specified
+Only one of this two variables is requiered
 
 	- type (An identificacion of the type of place searched. Options are limited and are in the Type.txt or in the Places API documentation. 
 	 	Only one type is allowed in each request)

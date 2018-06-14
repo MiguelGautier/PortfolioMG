@@ -1,4 +1,4 @@
-key <- "AIzaSyBaUM6Q8PciqtZQSkgJ_Oa1Pdwq_xJCzcg"
+key <- ""
 type <- "school"
 radius <- 5000
 location <- "18.4893128,-69.8612314"
