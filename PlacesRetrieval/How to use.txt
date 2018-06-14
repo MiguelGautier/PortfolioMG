@@ -1,0 +1,14 @@
+Following variables have to be specified in the Console before sourcing the R file
+	- radius (max 50000 meters, default is set to 50000)
+	
+	- location (default is set to 12 pairs of latitudes and longitudes that can be used to search within the Domimican Republic territory 
+		    saved in the Coordinates.txt file. Changes must be made to this file, as the scripts is set to read the set of coordinates from it.)
+	
+	- key (your Google Places API key) (No, I am not letting you use mine)
+
+Only one of this two variables is requiered to be specified
+
+	- type (An identificacion of the type of place searched. Options are limited and are in the Type.txt or in the Places API documentation. 
+	 	Only one type is allowed in each request)
+	- keyword (A word that may help narrow the search and make it more specific.) 
+
